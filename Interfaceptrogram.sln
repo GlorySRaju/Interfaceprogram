@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaceptrogram", "Interfaceptrogram\Interfaceptrogram.csproj", "{457ADB69-8172-4E6E-BB5A-CAC580BC9FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaAndPerimeteInterface", "AreaAndPerimeteInterface\AreaAndPerimeteInterface.csproj", "{4D7269AC-07C0-455F-A975-FBFBFC866F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457ADB69-8172-4E6E-BB5A-CAC580BC9FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457ADB69-8172-4E6E-BB5A-CAC580BC9FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457ADB69-8172-4E6E-BB5A-CAC580BC9FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457ADB69-8172-4E6E-BB5A-CAC580BC9FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7269AC-07C0-455F-A975-FBFBFC866F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7269AC-07C0-455F-A975-FBFBFC866F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7269AC-07C0-455F-A975-FBFBFC866F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7269AC-07C0-455F-A975-FBFBFC866F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678C0E57-6FBB-4687-8925-A1803CD973C9}
+	EndGlobalSection
+EndGlobal
